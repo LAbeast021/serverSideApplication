@@ -1,4 +1,4 @@
-namespace serverSideApplication
+namespace WeatherServer
 {
     public class WeatherForecast
     {
