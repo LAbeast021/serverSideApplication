@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "serverSideApplication", "serverSideApplication\serverSideApplication.csproj", "{C71AC58B-996B-492E-A18D-93A9E31E8F89}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4EEDF137-AF9B-4F1C-8F8B-1A25C189AC96} = {4EEDF137-AF9B-4F1C-8F8B-1A25C189AC96}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountryModel", "CountryModel\CountryModel.csproj", "{4EEDF137-AF9B-4F1C-8F8B-1A25C189AC96}"
 EndProject

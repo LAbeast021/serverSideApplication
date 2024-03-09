@@ -1,4 +1,5 @@
-@serverSideApplication_HostAddress = http://localhost:5297
+@serverSideApplication_HostAddress = http://localhost:7260
+//5297 before
 
 GET {{serverSideApplication_HostAddress}}/weatherforecast/
 Accept: application/json

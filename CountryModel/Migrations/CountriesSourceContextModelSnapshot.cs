@@ -38,6 +38,13 @@ namespace CountryModel.Migrations
                     b.Property<decimal>("Longitude")
                         .HasColumnType("numeric(18, 4)");
 
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Population")
+                        .HasColumnType("int");
+
                     b.HasKey("CityId")
                         .HasName("PK__City__F2D21B76D63BD9A0");
 

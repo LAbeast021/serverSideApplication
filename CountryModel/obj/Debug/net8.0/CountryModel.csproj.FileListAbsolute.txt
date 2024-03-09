@@ -13,3 +13,4 @@ C:\Users\kh592475\Desktop\folder2\serverSideApplication\CountryModel\obj\Debug\n
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\CountryModel\bin\Debug\net8.0\CountryModel.runtimeconfig.json
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\CountryModel\obj\Debug\net8.0\CountryModel.genruntimeconfig.cache
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\CountryModel\obj\Debug\net8.0\CountryModel.csproj.AssemblyReference.cache
+C:\Users\kh592475\Desktop\folder2\serverSideApplication\CountryModel\bin\Debug\net8.0\appsettings.Development.json
