@@ -25,7 +25,6 @@ C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\ob
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.serverSideApplication.props
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\obj\Debug\net8.0\scopedcss\bundle\serverSideApplication.styles.css
-C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\obj\Debug\net8.0\serverSideApplication.csproj.CopyComplete
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\obj\Debug\net8.0\serverSideApplication.dll
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\obj\Debug\net8.0\refint\serverSideApplication.dll
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\obj\Debug\net8.0\serverSideApplication.pdb
@@ -263,3 +262,4 @@ C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\bi
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\kh592475\Desktop\folder2\serverSideApplication\serverSideApplication\obj\Debug\net8.0\serverSi.E78BE8CE.Up2Date
