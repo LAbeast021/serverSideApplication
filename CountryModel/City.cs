@@ -29,4 +29,5 @@ public partial class City
     [ForeignKey("CountryId")]
     [InverseProperty("Cities")]
     public virtual Country Country { get; set; } = null!;
+    public object CityNavigation { get; internal set; }
 }
